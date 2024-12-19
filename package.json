@@ -1,0 +1,24 @@
+{
+  "name": "htmln",
+  "version": "0.1.0",
+  "description": "HyperText Markup Language Next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youmekz/htmln.git"
+  },
+  "keywords": [
+    "HTMLnext",
+    "HTML",
+    "WEB4"
+  ],
+  "author": "Yaroslav Pozdnyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youmekz/htmln/issues"
+  },
+  "homepage": "https://github.com/youmekz/htmln#readme"
+}

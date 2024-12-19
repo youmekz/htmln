@@ -1,0 +1,9 @@
+.vscode
+webpack.config.js
+documentation.php
+node_modules
+pages
+public
+publish.sh
+documentation
+.DS_Store
